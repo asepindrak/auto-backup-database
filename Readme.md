@@ -2,8 +2,9 @@
 
 ### navigate to directory
 
+#### (change ubuntu to your username)
 ```bash
-cd /home/ubuntu (change ubuntu to your username)
+cd /home/ubuntu
 ```
 
 ### clone repository
@@ -32,7 +33,7 @@ sudo service cron reload
 ```
 
 
-### edit sqlbackup.sh
+### edit file sqlbackup.sh
  - change database credential
 
 
