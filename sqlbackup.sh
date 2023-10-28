@@ -24,6 +24,7 @@ backup(){
 
 
 #change `demo` to your database name
+#after backup completed, this command will push new database backup to git
 database="demo"
 for dbs in $database
 do
